@@ -1,0 +1,2 @@
+#A choice picker selects an item from a set of options randomly. It can be used to make a decision when there are multiple options and you don't have a preference or you want to choose randomly. The choice picker algorithm takes in a list of items, and returns one item randomly selected from that list. The selection is done using random number generation algorithms, which ensures that each item in the list has an equal chance of being selected.
+![Choice](https://user-images.githubusercontent.com/108872423/216836433-60bef33f-c140-4727-ba7d-6a723cf6bbf2.jpg)
